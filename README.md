@@ -1,9 +1,11 @@
 Linking to Objects Fom Finding Aids
 ===================================
 
-On January 15, 2014 I did an informal email survey to see how people were 
-linking finding aids (EAD XML or HTML) to digital objects. I contacted the 
-following discussion lists:
+On January 15, 2014 I did an informal email survey to see examples of how 
+people were linking finding aids (EAD XML or HTML) to digital objects on 
+the Web. The intent was to see if there were common patterns for doing this
+linking, in order to inform linking practices at my institution. But I thought 
+the first step would be gather examples. I contacted the following discussion lists:
 
 * ead@forums.archivists.org
 * metadata@forums.archivists.org
@@ -11,10 +13,10 @@ following discussion lists:
 
 I received 45 responses which are included in the email.mbox file in this 
 repository. Below is a summary of the responses grouped by institution. 
-Ocassionally multiple people (sometimes from another institution) mentioned the 
-same institution.
+You can see that ocassionally multiple people (sometimes from another 
+institution) mentioned the same institution.
 
-If you'd like to add anything to this list please email ehs@pobox.com or fork
+If you'd like to add to this list please email ehs@pobox.com or fork
 the repository, add it to the README.md (which you are reading now) and send 
 me a pull request.
 
@@ -309,3 +311,7 @@ Monish Singh - monish.singh1@marist.edu
 * http://library.marist.edu/archives/LTP/Objects/worldWarITravelogues3.6.xml
 
 
+License
+-------
+
+* CC0
