@@ -1,5 +1,5 @@
-Linking to Digital Objects from Finding Aids
-============================================
+Linking to Objects Fom Finding Aids
+===================================
 
 On January 15, 2014 I did an informal email survey to see how people were 
 linking finding aids (EAD XML or HTML) to digital objects. I contacted the 
