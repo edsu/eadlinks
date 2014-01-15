@@ -61,6 +61,9 @@ Lori Lindberg - lori.lindberg@sjsu.edu
 
 * http://oac.cdlib.org/findaid/ark:/13030/ft3f59n5wt/admin/?query=Oakland%20Museum
 
+All OAC EAD that have attached objects:
+
+* http://www.oac.cdlib.org/search?style=oac4;onlineItems=Items%20online
 
 Stanford University
 -------------------
