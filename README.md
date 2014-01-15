@@ -1,5 +1,5 @@
-Finding Linking to Digital Objects
-==================================
+Linking to Digital Objects from Finding Aids
+============================================
 
 On January 15, 2014 I did an informal email survey to see how people were 
 linking finding aids (EAD XML or HTML) to digital objects. I contacted the 
@@ -8,6 +8,15 @@ following discussion lists:
 * ead@forums.archivists.org
 * metadata@forums.archivists.org
 * code4lib@listserv.nd.edu
+
+I received 45 responses which are included in the email.mbox file in this 
+repository. Below is a summary of the responses grouped by institution. 
+Ocassionally multiple people (sometimes from another institution) mentioned the 
+same institution.
+
+If you'd like to add anything to this list please email ehs@pobox.com or fork
+the repository, add it to the README.md (which you are reading now) and send 
+me a pull request.
 
 
 University of Michigan
