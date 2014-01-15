@@ -22,7 +22,7 @@ me a pull request.
 University of Michigan
 ----------------------
 
-Rebecca Welzenbach rwelzenb@umich.edu
+Rebecca Welzenbach - rwelzenb@umich.edu
 
 * http://quod.lib.umich.edu/c/cohenaids/
 
@@ -47,15 +47,15 @@ Charles Blair - chas@uchicago.edu
 Online Archive of California
 ----------------------------
 
-Daniel Hartwig dhartwig@stanford.edu
+Daniel Hartwig - dhartwig@stanford.edu
 
 * http://www.oac.cdlib.org/institutions/Stanford+University::University+Archives?limit=online
 
-Roy Tennant roytennant@GMAIL.COM
+Roy Tennant - roytennant@gmail.com
 
 * http://www.oac.cdlib.org/
 
-Lori Lindberg lori.lindberg@sjsu.edu
+Lori Lindberg - lori.lindberg@sjsu.edu
 
 * http://oac.cdlib.org/findaid/ark:/13030/ft3f59n5wt/admin/?query=Oakland%20Museum
 
@@ -63,7 +63,7 @@ Lori Lindberg lori.lindberg@sjsu.edu
 Stanford University
 -------------------
 
-Jessie Keck jkeck@STANFORD.EDU
+Jessie Keck - jkeck@stanford.edu
 
 * http://bv.stanford.edu/en/inventory
 * https://github.com/sul-dlss/bassi-ead-xml
@@ -72,7 +72,7 @@ Jessie Keck jkeck@STANFORD.EDU
 University of North Carolina
 ----------------------------
 
-Susan Ivey slivey@go.olemiss.edu
+Susan Ivey - slivey@go.olemiss.edu
 
 * http://www2.lib.unc.edu/mss/inv/p/Penn_School.html
 
@@ -80,7 +80,7 @@ Susan Ivey slivey@go.olemiss.edu
 Notre Dame University
 ---------------------
 
-Wm Kevin Cawley wcawley@nd.edu
+Wm Kevin Cawley - wcawley@nd.edu
 
 * http://archives.nd.edu/findaids/ead/xml/ath.xml
 * http://archives.nd.edu/findaids/ead/xml/tao.xml
@@ -90,7 +90,7 @@ Wm Kevin Cawley wcawley@nd.edu
 Harvard University
 ------------------
 
-Kate Bowers kate_bowers@harvard.edu
+Kate Bowers - kate_bowers@harvard.edu
 
 * A finding aid with lots of thumbnail/links: http://nrs.harvard.edu/urn-3:HUL.ARCH:hua04006 
 * A finding aid with lots of textual links: http://nrs.harvard.edu/urn-3:HUL.ARCH:hua07010 
@@ -103,7 +103,7 @@ Melanie Wisner - mmwisner@fas.harvard.edu
 APEx Project
 ------------
 
-Karin Bradenberg Karin.Bredenberg@riksarkivet.se
+Karin Bradenberg - Karin.Bredenberg@riksarkivet.se
 
 *  http://www.archivesportaleurope.net/
 
@@ -111,7 +111,7 @@ Karin Bradenberg Karin.Bredenberg@riksarkivet.se
 Indiana University
 ------------------
 
-Matthew Farrell m.farrell.0103@gmail.com
+Matthew Farrell - m.farrell.0103@gmail.com
 
 * http://webapp1.dlib.indiana.edu/findingaids/view?brand=general&docId=InU-Li-VAB8339.xml&doc.view=entire_text_
 
@@ -132,7 +132,7 @@ Shaun Ellis - shaune@princeton.edu
 Smithsonian
 -----------
 
-Mitch Toda TodaM@si.edu
+Mitch Toda - TodaM@si.edu
 
 * Record Unit 7058 - Egyptian Bombyliids Collection, 1930s http://siarchives.si.edu/collections/siris_arc_217621
 * Record Unit 9504 - Oral history interviews with Alexander Wetmore 1974 http://siarchives.si.edu/collections/siris_arc_217672
@@ -160,7 +160,7 @@ Chelcie Rowell - rowellcj@wfu.edu
 Univerity of Maryland
 ---------------------
 
-Amanda May atexas86@gmail.com
+Amanda May - atexas86@gmail.com
 
 * Patrick Gilmore Collection http://hdl.handle.net/1903.1/1214
 * Studio Theater Archives http://hdl.handle.net/1903.1/19638 
@@ -170,7 +170,7 @@ Amanda May atexas86@gmail.com
 Brigham Young University
 ------------------------
 
-Corey Nimer cory_nimer@byu.edu
+Corey Nimer - cory_nimer@byu.edu
 
 * Brigham Young University photographs of campus buildings http://findingaid.lib.byu.edu/viewItem/UA%20827/box%201/folder%201-2/ http://findingaid.lib.byu.edu/ead.php?file=UPB_UA827.xml 
 * Paolo Sfondrati correspondence http://findingaid.lib.byu.edu/viewItem/Vault%20MSS%20521/Item%209/folder%201/ http://findingaid.lib.byu.edu/ead.php?file=UPB_VMSS521.xml 
@@ -184,7 +184,7 @@ Max Evans - maxjevans@gmail.com
 Orbis Cascade Alliance
 ----------------------
 
-Jodi Allison-Bunnell jodiab@orbiscascade.org
+Jodi Allison-Bunnell - jodiab@orbiscascade.org
 
 * The approach documented in our best practices is to link to digital content from either the container list or at the collection level; see http://orbiscascade.org/index/cms-filesystem-action/nwda/tools/nwdabpg_v3.7_20121105.pdf, "describing and linking to digital items from the collection, page 10. This approach works so long as you have durable digital content links (which you don't in CONTENTdm), but the user experience is less than optimal. For an example of this in action, see http://nwda.orbiscascade.org/ark:/80444/xv49545 
 * The approach that we have taken in the IMLS-funded Cross-Search and Context Utility project (demonstration site at http://www5.iath.virginia.edu/nwda/prototype/) is to relate digital objects with their collections through MODS records. This approaches these links from the digital object side rather than through the structure of the finding aid.
@@ -193,7 +193,7 @@ Jodi Allison-Bunnell jodiab@orbiscascade.org
 Duke University
 ---------------
 
-Noah Huffman noah.huffman@gmail.com
+Noah Huffman - noah.huffman@gmail.com
 
 * Alexander Stephens papers: http://library.duke.edu/rubenstein/findingaids/ahstephens/
 * Charles Hunter papers: http://library.duke.edu/rubenstein/findingaids/huntercharles/
@@ -202,7 +202,7 @@ Noah Huffman noah.huffman@gmail.com
 University of Virginia
 ----------------------
 
-Kyle Banerjee kyle.banerjee@gmail.com
+Kyle Banerjee - kyle.banerjee@gmail.com
 
 * http://hero.village.virginia.edu/nwda/
 
@@ -216,7 +216,7 @@ Leslie Johnston - lesliej@loc.gov
 New York Public Library
 -----------------------
 
-Matthew Miller matthewmiller@nypl.org
+Matthew Miller - matthewmiller@nypl.org
 
 * http://archives.nypl.org/mss/2993#detailed
 
@@ -224,7 +224,7 @@ Matthew Miller matthewmiller@nypl.org
 University of Kentucky
 ----------------------
 
-Sarah Dorpinghaus sarah.dorpinghaus@UKY.EDU
+Sarah Dorpinghaus - sarah.dorpinghaus@UKY.EDU
 
 * http://kdl.kyvl.org/catalog/xt7rr49g527p/guide
 
@@ -232,7 +232,7 @@ Sarah Dorpinghaus sarah.dorpinghaus@UKY.EDU
 University of Pittsburgh
 ------------------------
 
-Aaron Brenner aaronbrenner@GMAIL.COM 
+Aaron Brenner - aaronbrenner@GMAIL.COM 
 
 * http://digital.library.pitt.edu/cgi-bin/f/findaid/findaid-idx?cc=ascead&rgn=main&view=text&didno=US-PPiU-ais200711
 
