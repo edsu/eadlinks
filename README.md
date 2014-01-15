@@ -101,6 +101,10 @@ Melanie Wisner - mmwisner@fas.harvard.edu
 
 * http://oasis.lib.harvard.edu/oasis/deliver/advancedsearch?_collection=oasis
 
+Randy Stern - randy_stern@harvard.edu
+
+* http://oasis.lib.harvard.edu/oasis/deliver/advancedsearch?_collection=oasis 
+
 
 APEx Project
 ------------
