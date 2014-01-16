@@ -324,6 +324,8 @@ Aaron Rubinstein - arubinst@library.umass.edu
 * Images displayed in finding aid: http://www.library.umass.edu/spcoll/ead/muph056.html
 * Images pulled from digital repository through image API: http://www.library.umass.edu/spcoll/ead/mufs088.html
 
+(Change finding aid extensions to .xml to view EAD/XML.)
+
 
 License
 -------
