@@ -315,6 +315,16 @@ Monish Singh - monish.singh1@marist.edu
 * http://library.marist.edu/archives/LTP/Objects/worldWarITravelogues3.6.xml
 
 
+Getty Research Institute
+------------------------
+
+Andra Darlington - ADarlington@getty.edu
+
+* http://hdl.handle.net/10020/cifa2011m20
+* http://hdl.handle.net/10020/cifa2002m42
+* http://hdl.handle.net/10020/cifa86p8
+
+
 License
 -------
 
