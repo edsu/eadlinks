@@ -49,6 +49,10 @@ Charles Blair - chas@uchicago.edu
 Online Archive of California
 ----------------------------
 
+All OAC EAD that have items online:
+
+* http://www.oac.cdlib.org/search?style=oac4;onlineItems=Items%20online
+
 Daniel Hartwig - dhartwig@stanford.edu
 
 * http://www.oac.cdlib.org/institutions/Stanford+University::University+Archives?limit=online
@@ -60,7 +64,6 @@ Roy Tennant - roytennant@gmail.com
 Lori Lindberg - lori.lindberg@sjsu.edu
 
 * http://oac.cdlib.org/findaid/ark:/13030/ft3f59n5wt/admin/?query=Oakland%20Museum
-
 
 Stanford University
 -------------------
