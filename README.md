@@ -313,6 +313,18 @@ Monish Singh - monish.singh1@marist.edu
 * http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/palestine2.1.1.2.1.2.xml
 * http://library.marist.edu/archives/LTP/Graphic%20Materials/Thomas2.1.1.2/airplanes2.1.1.2.2.xml
 * http://library.marist.edu/archives/LTP/Objects/worldWarITravelogues3.6.xml
+* 
+
+University of Massachusetts Amherst
+-----------------------------------
+
+Aaron Rubinstein - arubinst@library.umass.edu
+
+* Links into our digital repository: http://www.library.umass.edu/spcoll/ead/mums411.html
+* Images displayed in finding aid: http://www.library.umass.edu/spcoll/ead/muph056.html
+* Images pulled from digital repository through image API: http://www.library.umass.edu/spcoll/ead/mufs088.html
+
+(Change finding aid extensions to .xml to view EAD/XML.)
 
 
 Getty Research Institute
